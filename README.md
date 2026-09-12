@@ -1,35 +1,27 @@
 # AI/ML From Scratch 🤖
 
-This repository documents my journey of learning **Artificial Intelligence and Machine Learning from scratch**.
+Welcome to my **AI/ML learning journey**!
 
-I'm currently building my Python fundamentals first before moving into libraries and machine learning concepts.
+I'm learning Artificial Intelligence and Machine Learning from scratch, starting with Python fundamentals and the math that underpins it. This repository contains my practice code, exercises, and notes as I gradually build my foundation.
 
-## 📚 What I'm Learning
+## 🐍 01 — Python Basics
 
-### Python Basics
+Before jumping into AI/ML, I'm strengthening my Python fundamentals.
 
-* Variables and data types
-* Lists
-* Sets
-* Dictionaries
+### Topics Covered
+
+* Variables and operators
+* Lists, tuples, dictionaries, and sets
 * Loops
-* Conditional statements
+* Functions
 * List comprehensions
-* User input
-* String manipulation
+* File handling
+* Object-Oriented Programming (OOP)
 
-### Functions
-
-* Defining functions
-* Parameters and return values
-* Default arguments
-* Basic problem solving
-
-### Object-Oriented Programming
+### OOP Topics
 
 * Classes and objects
 * Constructors
-* Instance attributes
 * Methods
 * `__str__`
 * `__eq__`
@@ -39,43 +31,91 @@ I'm currently building my Python fundamentals first before moving into libraries
 * Polymorphism
 * Class attributes
 
-## 📝 Practice
+## 🧮 02 — Math for AI
 
-The code in this repository contains small exercises and examples that I write while learning each concept.
+Building the mathematical foundation that machine learning algorithms actually run on — worked by hand first, then verified in code.
 
-Some of the current practice includes:
+### Linear Algebra
 
-* Filtering even numbers
-* List comprehensions
-* Number guessing game
-* Prime number checker
-* Palindrome checker
-* Finding the largest number
-* Star patterns
-* Student grade calculator
-* Bank account class
-* Vehicle inheritance
-* Animal polymorphism
-* Book class
+* Vectors — addition, scalar multiplication, magnitude
+* Dot product (and its role as "weighted combination of inputs" in ML)
+* Matrix multiplication
+* Verified all hand-calculations using NumPy
 
-## 🚀 Roadmap
+### Statistics & Probability *(in progress)*
 
-* [x] Python fundamentals
-* [x] Functions
-* [x] OOP basics
-* [ ] NumPy
-* [ ] Pandas
-* [ ] Matplotlib
-* [ ] Data preprocessing
-* [ ] Statistics for ML
-* [ ] Machine Learning fundamentals
-* [ ] Supervised Learning
-* [ ] Unsupervised Learning
-* [ ] Deep Learning
-* [ ] Projects
+* Mean, median, mode, variance, standard deviation
+* Probability basics, Bayes' theorem
+* Central Limit Theorem
+
+## 📂 Repository Structure
+
+```text
+ai-ml-from-scratch/
+│
+├── README.md
+│
+├── 01_python_basics/
+│   ├── variables_and_operators.py
+│   ├── data_structures.py
+│   ├── loops_and_functions.py
+│   ├── file_handling.py
+│   │
+│   └── oop/
+│       ├── 01_classes_objects.py
+│       ├── 02_methods_constructors.py
+│       ├── 03_encapsulation.py
+│       ├── 04_inheritance.py
+│       └── 05_polymorphism.py
+│
+└── 02_math_for_ai/
+    ├── linear_algebra/
+    │   ├── notes.md
+    │   └── numpy_verification.py
+    │
+    └── statistics_probability/
+        └── (coming soon)
+```
+
+## 🚀 Learning Roadmap
+
+**Python Fundamentals**
+- [x] Variables, operators, conditionals, loops
+- [x] Functions & lambda functions
+- [x] Data structures (lists, tuples, dicts, sets) & comprehensions
+- [x] File handling & JSON
+- [x] OOP (in depth)
+
+**Math for AI**
+- [x] Linear algebra (vectors, matrices, dot product, matrix multiplication)
+- [ ] Statistics & probability, Central Limit Theorem
+- [ ] Calculus for ML
+
+**Data Handling**
+- [ ] NumPy (in depth)
+- [ ] Pandas
+- [ ] Matplotlib / Seaborn
+- [ ] Data preprocessing
+
+**Machine Learning**
+- [ ] Supervised learning (regression, classification)
+- [ ] Unsupervised learning (clustering, PCA)
+- [ ] Model evaluation (precision, recall, F1, bias/variance)
+
+**Deep Learning**
+- [ ] Neural network fundamentals
+- [ ] PyTorch
+
+**GenAI & Applied AI**
+- [ ] LLMs, RAG, agentic AI
+
+**Projects**
+- [ ] (added as completed)
 
 ## 🎯 Goal
 
-Build a strong foundation in Python and gradually work my way toward building real AI/ML projects.
+My goal is to build a strong foundation in Python and math, and gradually move toward **Machine Learning, Deep Learning, and real-world AI applications**.
 
-> Learning step by step rather than trying to learn everything at once.
+This repository is a record of my progress — from the basics to building actual AI/ML applications.
+
+> Learning step by step. Building as I go. 🚀
