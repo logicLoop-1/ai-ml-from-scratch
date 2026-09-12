@@ -55,20 +55,20 @@ ai-ml-from-scratch/
 │
 ├── README.md
 │
-├── 01_python_basics/
+├── python_basics/
 │   ├── variables_and_operators.py
 │   ├── data_structures.py
 │   ├── loops_and_functions.py
 │   ├── file_handling.py
 │   │
 │   └── oop/
-│       ├── 01_classes_objects.py
-│       ├── 02_methods_constructors.py
-│       ├── 03_encapsulation.py
-│       ├── 04_inheritance.py
-│       └── 05_polymorphism.py
+│       ├── classes_objects.py
+│       ├── methods_constructors.py
+│       ├── encapsulation.py
+│       ├── inheritance.py
+│       └── polymorphism.py
 │
-└── 02_math_for_ai/
+└── math_for_ai/
     ├── linear_algebra/
     │   ├── notes.md
     │   └── numpy_verification.py
