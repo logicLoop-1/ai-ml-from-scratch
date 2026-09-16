@@ -90,7 +90,7 @@ ai-ml-from-scratch/
 
 **Math for AI**
 - [x] Linear algebra (vectors, matrices, dot product, matrix multiplication)
-- [ ] Statistics & probability, Central Limit Theorem
+- [x] Statistics & probability, Central Limit Theorem
 - [ ] Calculus for ML
 
 **Data Handling**
