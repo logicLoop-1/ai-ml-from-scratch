@@ -74,7 +74,9 @@ ai-ml-from-scratch/
     │   └── numpy_verification.py
     │
     └── statistics_probability/
-        └── (coming soon)
+        └── formulas.md
+        └── notes.md
+        └── practice_probelems.py
 ```
 
 ## 🚀 Learning Roadmap
