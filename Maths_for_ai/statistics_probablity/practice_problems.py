@@ -6,7 +6,7 @@ def median(data):
     sorted_data = sorted(data)
     mid = len(sorted_data) //2
     if len(sorted_data) % 2 ==0:
-        return sorted_data(mid-1) +sorted_data(mid) / 2
+        return (sorted_data[mid-1] +sorted_data[mid]) / 2
     return sorted_data(mid)
 def mode(data):
     counts = {}
@@ -18,7 +18,7 @@ def mode(data):
     max_count = max(counts.values())
     for value, count in counts.items():
         if count == max_count:
-            return count       
+            return value    
 #q2 standard deviation and variance
 def variance(data):
     m = mean(data)
