@@ -42,7 +42,7 @@ Building the mathematical foundation that machine learning algorithms actually r
 * Matrix multiplication
 * Verified all hand-calculations using NumPy
 
-### Statistics & Probability *(in progress)*
+### Statistics & Probability 
 
 * Mean, median, mode, variance, standard deviation
 * Probability basics, Bayes' theorem
