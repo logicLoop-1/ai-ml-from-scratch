@@ -60,7 +60,9 @@ ai-ml-from-scratch/
 │   ├── data_structures.py
 │   ├── loops_and_functions.py
 │   ├── file_handling.py
-│   │
+|   ├── OOP_based_CLI_projects/
+        ├── bank_account.py
+        └── medical_store_inventory_system.py
 │   └── oop/
 │       ├── classes_objects.py
 │       ├── methods_constructors.py
