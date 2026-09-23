@@ -85,43 +85,53 @@ Learning to work with real-world data — loading, cleaning, exploring, and visu
 * Basic feature engineering
 
 ## 📂 Repository Structure
-
-```text
 ai-ml-from-scratch/
 │
 ├── README.md
 │
-├── python_basics/
+├── 01_python_basics/
 │   ├── variables_and_operators.py
 │   ├── data_structures.py
 │   ├── loops_and_functions.py
 │   ├── file_handling.py
-|   ├── OOP_based_CLI_projects/
-        ├── bank_account.py
-        └── medical_store_inventory_system.py
-│   └── oop/
-│       ├── classes_objects.py
-│       ├── methods_constructors.py
-│       ├── encapsulation.py
-│       ├── inheritance.py
-│       └── polymorphism.py
+│   │
+│   ├── oop/
+│   │   ├── classes_objects.py
+│   │   ├── methods_constructors.py
+│   │   ├── encapsulation.py
+│   │   ├── inheritance.py
+│   │   └── polymorphism.py
+│   │
+│   └── oop_based_cli_projects/
+│       ├── bank_account.py
+│       └── medical_store_inventory_system.py
 │
-└── math_for_ai/
-    ├── linear_algebra/
-    │   ├── notes.md
-    │   └── numpy_verification.py
+├── 02_math_for_ai/
+│   │
+│   ├── linear_algebra/
+│   │   ├── notes.md
+│   │   └── numpy_verification.py
+│   │
+│   └── statistics_probability/
+│       ├── formulas.md
+│       ├── notes.md
+│       └── practice_problems.py
+│
+└── 03_data_handling/
     │
-    └── statistics_probability/
-        └── formulas.md
+    ├── numpy/
+    │   ├── cheatsheet.md
+    │   └── practice_problems.py
+    │
+    ├── pandas/
+    │   ├── cheatsheet.md
+    │   └── practice_problems.py
+    │
+    ├── matplotlib_seaborn/
+    │   └── practice.py
+    │
+    └── data_preprocessing/
         └── notes.md
-        └── practice_probelems.py
- ├── 03_data_handling/
-│   ├── numpy/
-│   │   ├── cheatsheet.md
-│   │   └── practice_problems.py
-│   ├── pandas/
-│   ├── matplotlib_seaborn/
-│   └── data_preprocessing/
 
 ## 🚀 Learning Roadmap
 
