@@ -115,7 +115,13 @@ ai-ml-from-scratch/
         └── formulas.md
         └── notes.md
         └── practice_probelems.py
-```
+├── 03_data_handling/
+│   ├── numpy/
+│   │   ├── cheatsheet.md
+│   │   └── practice_problems.py
+│   ├── pandas/
+│   ├── matplotlib_seaborn/
+│   └── data_preprocessing/
 
 ## 🚀 Learning Roadmap
 
