@@ -47,6 +47,42 @@ Building the mathematical foundation that machine learning algorithms actually r
 * Mean, median, mode, variance, standard deviation
 * Probability basics, Bayes' theorem
 * Central Limit Theorem
+## 📊 03 — Data Handling
+
+Learning to work with real-world data — loading, cleaning, exploring, and visualizing it before it ever reaches a model.
+
+### NumPy (in depth)
+
+* Array creation, indexing, and slicing
+* Broadcasting
+* Vectorized operations vs loops
+* Reshaping, stacking, and splitting arrays
+* Aggregate functions (sum, mean, std, etc. along axes)
+* Random module for sampling and simulations
+
+### Pandas
+
+* Series and DataFrame basics
+* Reading/writing CSV, JSON, Excel
+* Indexing, filtering, and selection (`loc`, `iloc`)
+* Handling missing data
+* GroupBy, aggregation, and pivot tables
+* Merging, joining, and concatenating datasets
+
+### Matplotlib / Seaborn
+
+* Line, bar, scatter, and histogram plots
+* Subplots and figure customization
+* Seaborn for statistical visualizations (distributions, correlations)
+* Visualizing relationships between features
+
+### Data Preprocessing
+
+* Handling missing values and outliers
+* Encoding categorical variables (label/one-hot)
+* Feature scaling (normalization, standardization)
+* Train-test split
+* Basic feature engineering
 
 ## 📂 Repository Structure
 
