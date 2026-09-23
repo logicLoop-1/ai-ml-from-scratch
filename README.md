@@ -108,7 +108,6 @@ ai-ml-from-scratch/
 │       └── medical_store_inventory_system.py
 │
 ├── 02_math_for_ai/
-│   │
 │   ├── linear_algebra/
 │   │   ├── notes.md
 │   │   └── numpy_verification.py
@@ -119,7 +118,6 @@ ai-ml-from-scratch/
 │       └── practice_problems.py
 │
 └── 03_data_handling/
-    │
     ├── numpy/
     │   ├── cheatsheet.md
     │   └── practice_problems.py
