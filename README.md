@@ -165,8 +165,8 @@ ai-ml-from-scratch/
 - [ ] LLMs, RAG, agentic AI
 
 **Projects**
-- [ ] (added as completed)
-
+- [x] bank account managment using oop
+- [x] medical store inventory using oop
 ## 🎯 Goal
 
 My goal is to build a strong foundation in Python and math, and gradually move toward **Machine Learning, Deep Learning, and real-world AI applications**.
