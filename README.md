@@ -115,7 +115,7 @@ ai-ml-from-scratch/
         └── formulas.md
         └── notes.md
         └── practice_probelems.py
-├── 03_data_handling/
+ ├── 03_data_handling/
 │   ├── numpy/
 │   │   ├── cheatsheet.md
 │   │   └── practice_problems.py
