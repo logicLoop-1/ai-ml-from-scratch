@@ -146,7 +146,7 @@ ai-ml-from-scratch/
 - [x] Statistics & probability, Central Limit Theorem
 
 **Data Handling**
-- [ ] NumPy (in depth)
+- [x] NumPy (in depth)
 - [ ] Pandas
 - [ ] Matplotlib / Seaborn
 - [ ] Data preprocessing
